@@ -1,0 +1,51 @@
+product_id,current_stock,product_name,reorder_threshold,supplier
+1,95,I Chocolate,20,SweetSupplies Inc.
+2,29,Bad Chocolate,11,Cocoa Ventures
+3,-21,Employee Hard Candy,12,SweetSupplies Inc.
+4,35,Thank Chocolate,16,SweetSupplies Inc.
+5,20,Suggest Hard Candy,12,SugarBloom Co.
+6,0,Artist Baked Goods,11,Cocoa Ventures
+7,30,Theory Hard Candy,17,Cocoa Ventures
+8,-19,Himself Hard Candy,14,Cocoa Ventures
+9,8,Pull Baked Goods,8,SugarBloom Co.
+10,-14,Door Gummy,5,Cocoa Ventures
+11,0,Wish Gummy,11,SugarBloom Co.
+12,55,Send Chocolate,20,SweetSupplies Inc.
+13,-5,Site Hard Candy,10,SweetSupplies Inc.
+14,-2,His Gummy,10,SweetSupplies Inc.
+15,76,Then Chocolate,22,Cocoa Ventures
+16,103,Exist Hard Candy,25,SugarBloom Co.
+17,27,Bag Chocolate,19,SugarBloom Co.
+18,0,Economic Hard Candy,21,SugarBloom Co.
+19,32,Difficult Baked Goods,13,SugarBloom Co.
+20,9,Billion Gummy,7,Cocoa Ventures
+21,18,Whole Chocolate,15,SugarBloom Co.
+22,-2,Common Hard Candy,8,Cocoa Ventures
+23,-18,At Hard Candy,9,Cocoa Ventures
+24,-2,Family Chocolate,11,SugarBloom Co.
+25,-18,Son Baked Goods,7,SugarBloom Co.
+26,16,Guess Gummy,16,SweetSupplies Inc.
+27,117,Travel Hard Candy,24,Cocoa Ventures
+28,39,Whom Baked Goods,18,SugarBloom Co.
+29,-17,Million Chocolate,8,SweetSupplies Inc.
+30,77,Officer Hard Candy,17,SweetSupplies Inc.
+31,141,Political Baked Goods,25,SweetSupplies Inc.
+32,14,Appear Baked Goods,14,SweetSupplies Inc.
+33,27,Air Baked Goods,13,SweetSupplies Inc.
+34,96,Learn Hard Candy,17,SweetSupplies Inc.
+35,100,Sort Gummy,20,Cocoa Ventures
+36,92,Game Chocolate,22,Cocoa Ventures
+37,97,Number Gummy,25,Cocoa Ventures
+38,36,Become Hard Candy,15,SugarBloom Co.
+39,51,Much Hard Candy,9,SugarBloom Co.
+40,70,Must Gummy,18,SugarBloom Co.
+41,18,Several Hard Candy,13,SweetSupplies Inc.
+42,51,His Gummy,12,SugarBloom Co.
+43,-9,That Hard Candy,8,SweetSupplies Inc.
+44,124,Area Gummy,25,SweetSupplies Inc.
+45,-3,Situation Baked Goods,7,SugarBloom Co.
+46,-6,Without Baked Goods,17,SugarBloom Co.
+47,58,Health Baked Goods,16,SugarBloom Co.
+48,-5,Me Chocolate,9,SugarBloom Co.
+49,17,Of Baked Goods,5,Cocoa Ventures
+50,18,Leg Hard Candy,7,SugarBloom Co.

@@ -1,0 +1,51 @@
+product_id,product_name,category,supplier,cost_per_unit,stock_quantity,reorder_threshold
+1,I Chocolate,Chocolate,SweetSupplies Inc.,4.86,29,20
+2,Bad Chocolate,Chocolate,Cocoa Ventures,3.38,123,11
+3,Employee Hard Candy,Hard Candy,SweetSupplies Inc.,4.05,91,12
+4,Thank Chocolate,Chocolate,SweetSupplies Inc.,3.89,86,16
+5,Suggest Hard Candy,Hard Candy,SugarBloom Co.,0.84,49,12
+6,Artist Baked Goods,Baked Goods,Cocoa Ventures,4.93,149,11
+7,Theory Hard Candy,Hard Candy,Cocoa Ventures,4.42,86,17
+8,Himself Hard Candy,Hard Candy,Cocoa Ventures,3.97,43,14
+9,Pull Baked Goods,Baked Goods,SugarBloom Co.,2.1,31,8
+10,Door Gummy,Gummy,Cocoa Ventures,1.05,138,5
+11,Wish Gummy,Gummy,SugarBloom Co.,4.44,162,11
+12,Send Chocolate,Chocolate,SweetSupplies Inc.,1.74,113,20
+13,Site Hard Candy,Hard Candy,SweetSupplies Inc.,0.61,28,10
+14,His Gummy,Gummy,SweetSupplies Inc.,4.53,64,10
+15,Then Chocolate,Chocolate,Cocoa Ventures,3.94,73,22
+16,Exist Hard Candy,Hard Candy,SugarBloom Co.,4.95,135,25
+17,Bag Chocolate,Chocolate,SugarBloom Co.,3.67,69,19
+18,Economic Hard Candy,Hard Candy,SugarBloom Co.,4.03,108,21
+19,Difficult Baked Goods,Baked Goods,SugarBloom Co.,1.2,199,13
+20,Billion Gummy,Gummy,Cocoa Ventures,4.3,95,7
+21,Whole Chocolate,Chocolate,SugarBloom Co.,1.66,47,15
+22,Common Hard Candy,Hard Candy,Cocoa Ventures,2.78,40,8
+23,At Hard Candy,Hard Candy,Cocoa Ventures,2.23,120,9
+24,Family Chocolate,Chocolate,SugarBloom Co.,3.29,109,11
+25,Son Baked Goods,Baked Goods,SugarBloom Co.,1.18,132,7
+26,Guess Gummy,Gummy,SweetSupplies Inc.,1.92,29,16
+27,Travel Hard Candy,Hard Candy,Cocoa Ventures,1.24,28,24
+28,Whom Baked Goods,Baked Goods,SugarBloom Co.,4.29,53,18
+29,Million Chocolate,Chocolate,SweetSupplies Inc.,2.2,112,8
+30,Officer Hard Candy,Hard Candy,SweetSupplies Inc.,2.96,197,17
+31,Political Baked Goods,Baked Goods,SweetSupplies Inc.,4.0,158,25
+32,Appear Baked Goods,Baked Goods,SweetSupplies Inc.,4.97,147,14
+33,Air Baked Goods,Baked Goods,SweetSupplies Inc.,1.81,184,13
+34,Learn Hard Candy,Hard Candy,SweetSupplies Inc.,1.17,156,17
+35,Sort Gummy,Gummy,Cocoa Ventures,3.18,19,20
+36,Game Chocolate,Chocolate,Cocoa Ventures,2.58,79,22
+37,Number Gummy,Gummy,Cocoa Ventures,4.61,22,25
+38,Become Hard Candy,Hard Candy,SugarBloom Co.,4.36,37,15
+39,Much Hard Candy,Hard Candy,SugarBloom Co.,2.6,147,9
+40,Must Gummy,Gummy,SugarBloom Co.,3.26,117,18
+41,Several Hard Candy,Hard Candy,SweetSupplies Inc.,3.8,131,13
+42,His Gummy,Gummy,SugarBloom Co.,2.75,199,12
+43,That Hard Candy,Hard Candy,SweetSupplies Inc.,0.75,51,8
+44,Area Gummy,Gummy,SweetSupplies Inc.,3.75,98,25
+45,Situation Baked Goods,Baked Goods,SugarBloom Co.,1.04,95,7
+46,Without Baked Goods,Baked Goods,SugarBloom Co.,2.1,148,17
+47,Health Baked Goods,Baked Goods,SugarBloom Co.,3.39,95,16
+48,Me Chocolate,Chocolate,SugarBloom Co.,2.89,139,9
+49,Of Baked Goods,Baked Goods,Cocoa Ventures,2.1,170,5
+50,Leg Hard Candy,Hard Candy,SugarBloom Co.,4.1,79,7
