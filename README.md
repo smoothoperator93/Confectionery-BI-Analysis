@@ -37,6 +37,9 @@ This led to ~15 hours of manual weekly reporting, misaligned metrics across depa
 2.  Review the Python scripts in the `/scripts` folder to see the data generation and automation logic.
 3.  The `/data` folder contains the sample CSV files used as the data source.
 
+Explore the report here; 
+https://app.powerbi.com/view?r=eyJrIjoiMGQ3Y2Q3MDktN2U2NS00NTBiLWE3YWMtYThlN2U0NDViZmZjIiwidCI6ImVjYWIwYWY4LTY1ZGEtNDkyNi05OTBhLWFmYzJhYjE2NDZhMiJ9&embedImagePlaceholder=true&pageName=72a1ae7193dbc5b11cab
+
 ## Future Enhancements
 - Implement predictive forecasting for inventory demand.
 - Add a connection to a live database (e.g., SQL Server).
