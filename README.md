@@ -1,7 +1,7 @@
 # Confectionery Business Intelligence Analysis
 
 ## Project Overview
-This project simulates a full-scale Business Intelligence solution for **Confectionately Yours Ventures**, a fictional specialty confectionery business. The goal was to integrate disparate data sources into a unified dashboard to drive operational efficiency and strategic decision-making.
+This project simulates a full-scale Business Intelligence solution for **Confectionately Yours Ventures**, a fictional specialty confectionery business. The goal was to unify disparate data sources into a single source of truth, enabling operational efficiency and strategic decision-making.
 
 ## The Problem: "Before"
 The business suffered from data silos:
