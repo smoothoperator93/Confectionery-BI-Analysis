@@ -38,7 +38,7 @@ This led to ~15 hours of manual weekly reporting, misaligned metrics across depa
 3.  The `/data` folder contains the sample CSV files used as the data source.
 
 Explore the report here; 
-https://app.powerbi.com/view?r=eyJrIjoiMGQ3Y2Q3MDktN2U2NS00NTBiLWE3YWMtYThlN2U0NDViZmZjIiwidCI6ImVjYWIwYWY4LTY1ZGEtNDkyNi05OTBhLWFmYzJhYjE2NDZhMiJ9&embedImagePlaceholder=true&pageName=72a1ae7193dbc5b11cab
+[https://app.powerbi.com/view?r=eyJrIjoiMGQ3Y2Q3MDktN2U2NS00NTBiLWE3YWMtYThlN2U0NDViZmZjIiwidCI6ImVjYWIwYWY4LTY1ZGEtNDkyNi05OTBhLWFmYzJhYjE2NDZhMiJ9&embedImagePlaceholder=true&pageName=72a1ae7193dbc5b11cab](https://app.powerbi.com/view?r=eyJrIjoiMWQ5YzA1MTAtNDY5NC00OWE1LTg2MmItM2NlNTdmMDU4MDIyIiwidCI6ImVjYWIwYWY4LTY1ZGEtNDkyNi05OTBhLWFmYzJhYjE2NDZhMiJ9)
 
 ## Future Enhancements
 - Implement predictive forecasting for inventory demand.
